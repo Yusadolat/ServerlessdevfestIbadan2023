@@ -1,0 +1,6 @@
+# Ignore configuration files
+*.config
+
+# Ignore Node.js application files
+node_modules/
+dist/
